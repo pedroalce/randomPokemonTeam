@@ -31,6 +31,14 @@ body {
     align-items: center;
 }
 
+p {
+    font-family: 'Roboto';
+    font-size: 14px;
+    color:#222224;
+    font-weight: bold;
+    padding: 3px 0;
+}
+
 #red { 
     width: 102px;
     height: 219px;
@@ -86,7 +94,7 @@ body {
 
 button {
     background-color: #222224;
-    color: #EE1515;
+    color: #ffcb05;
     font-size: 24px;
     font-family: 'Roboto';
     width: 271px;
